@@ -1,0 +1,16 @@
+.vaccination-graph-container {
+  background-color: #1c1c2b;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 16px;
+}
+
+.vaccination-graph-title {
+  font-family: 'Roboto';
+  color: #cbd5e1;
+  font-size: 22px;
+  margin-left: 12px;
+  align-self: flex-start;
+}

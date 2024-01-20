@@ -1,0 +1,58 @@
+.cowin-dashboard-background {
+  min-height: 100vh;
+  background-color: #161625;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-top: 20px;
+}
+
+.cowin-dashboard-container {
+  width: 80%;
+}
+
+.logo-container {
+  display: flex;
+  align-items: center;
+}
+
+.website-logo {
+  height: 40px;
+}
+
+.website-logo-name {
+  font-family: 'Roboto';
+  color: #2cc6c6;
+  margin-left: 12px;
+  font-size: 20px;
+}
+
+.cowin-vaccination-title {
+  font-family: 'Roboto';
+  color: #ffffff;
+  font-size: 38px;
+}
+
+.loading-container {
+  height: 470px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.failure-view-container {
+  height: 470px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.failure-view-image {
+  height: 300px;
+}
+.failure-view-title {
+  font-family: 'Bree Serif';
+  color: #ffffff;
+  font-size: 22px;
+}
